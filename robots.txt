@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://slatewindstitch.github.io/sitemap.xml
